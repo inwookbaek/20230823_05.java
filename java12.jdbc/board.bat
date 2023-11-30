@@ -1,0 +1,1 @@
+java -cp board.jar com.lec.ex02_board.BoardMain
